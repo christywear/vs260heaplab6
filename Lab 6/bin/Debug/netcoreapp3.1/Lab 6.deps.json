@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab 6/1.0.0": {
+        "dependencies": {
+          "RecursiveSorts": "1.0.0"
+        },
+        "runtime": {
+          "Lab 6.dll": {}
+        }
+      },
+      "RecursiveSorts/1.0.0": {
+        "runtime": {
+          "RecursiveSorts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab 6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RecursiveSorts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

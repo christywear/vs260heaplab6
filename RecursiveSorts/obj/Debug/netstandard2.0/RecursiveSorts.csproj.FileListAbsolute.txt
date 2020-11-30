@@ -1,0 +1,9 @@
+D:\classxis\Fall2020\cs260\week_7\Lab 6\RecursiveSorts\bin\Debug\netstandard2.0\RecursiveSorts.deps.json
+D:\classxis\Fall2020\cs260\week_7\Lab 6\RecursiveSorts\bin\Debug\netstandard2.0\RecursiveSorts.dll
+D:\classxis\Fall2020\cs260\week_7\Lab 6\RecursiveSorts\bin\Debug\netstandard2.0\RecursiveSorts.pdb
+D:\classxis\Fall2020\cs260\week_7\Lab 6\RecursiveSorts\obj\Debug\netstandard2.0\RecursiveSorts.AssemblyInfoInputs.cache
+D:\classxis\Fall2020\cs260\week_7\Lab 6\RecursiveSorts\obj\Debug\netstandard2.0\RecursiveSorts.AssemblyInfo.cs
+D:\classxis\Fall2020\cs260\week_7\Lab 6\RecursiveSorts\obj\Debug\netstandard2.0\RecursiveSorts.csproj.CoreCompileInputs.cache
+D:\classxis\Fall2020\cs260\week_7\Lab 6\RecursiveSorts\obj\Debug\netstandard2.0\RecursiveSorts.dll
+D:\classxis\Fall2020\cs260\week_7\Lab 6\RecursiveSorts\obj\Debug\netstandard2.0\RecursiveSorts.pdb
+D:\classxis\Fall2020\cs260\week_7\Lab 6\RecursiveSorts\obj\Debug\netstandard2.0\RecursiveSorts.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\classxis\Fall2020\cs260\week_7\Lab 6\Lab 6\bin\Debug\netcoreapp3.1\Lab 6.exe
+D:\classxis\Fall2020\cs260\week_7\Lab 6\Lab 6\bin\Debug\netcoreapp3.1\Lab 6.deps.json
+D:\classxis\Fall2020\cs260\week_7\Lab 6\Lab 6\bin\Debug\netcoreapp3.1\Lab 6.runtimeconfig.json
+D:\classxis\Fall2020\cs260\week_7\Lab 6\Lab 6\bin\Debug\netcoreapp3.1\Lab 6.runtimeconfig.dev.json
+D:\classxis\Fall2020\cs260\week_7\Lab 6\Lab 6\bin\Debug\netcoreapp3.1\Lab 6.dll
+D:\classxis\Fall2020\cs260\week_7\Lab 6\Lab 6\bin\Debug\netcoreapp3.1\Lab 6.pdb
+D:\classxis\Fall2020\cs260\week_7\Lab 6\Lab 6\bin\Debug\netcoreapp3.1\RecursiveSorts.dll
+D:\classxis\Fall2020\cs260\week_7\Lab 6\Lab 6\bin\Debug\netcoreapp3.1\RecursiveSorts.pdb
+D:\classxis\Fall2020\cs260\week_7\Lab 6\Lab 6\obj\Debug\netcoreapp3.1\Lab 6.csprojAssemblyReference.cache
+D:\classxis\Fall2020\cs260\week_7\Lab 6\Lab 6\obj\Debug\netcoreapp3.1\Lab 6.AssemblyInfoInputs.cache
+D:\classxis\Fall2020\cs260\week_7\Lab 6\Lab 6\obj\Debug\netcoreapp3.1\Lab 6.AssemblyInfo.cs
+D:\classxis\Fall2020\cs260\week_7\Lab 6\Lab 6\obj\Debug\netcoreapp3.1\Lab 6.csproj.CoreCompileInputs.cache
+D:\classxis\Fall2020\cs260\week_7\Lab 6\Lab 6\obj\Debug\netcoreapp3.1\Lab 6.csproj.CopyComplete
+D:\classxis\Fall2020\cs260\week_7\Lab 6\Lab 6\obj\Debug\netcoreapp3.1\Lab 6.dll
+D:\classxis\Fall2020\cs260\week_7\Lab 6\Lab 6\obj\Debug\netcoreapp3.1\Lab 6.pdb
+D:\classxis\Fall2020\cs260\week_7\Lab 6\Lab 6\obj\Debug\netcoreapp3.1\Lab 6.genruntimeconfig.cache

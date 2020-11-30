@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 6", "Lab 6\Lab 6.csproj", "{8C3A92A1-F436-44B0-9737-50B602093C1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveSorts", "RecursiveSorts\RecursiveSorts.csproj", "{A9EF264B-5167-4D6C-829E-73A60C91F30C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C3A92A1-F436-44B0-9737-50B602093C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3A92A1-F436-44B0-9737-50B602093C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3A92A1-F436-44B0-9737-50B602093C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3A92A1-F436-44B0-9737-50B602093C1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9EF264B-5167-4D6C-829E-73A60C91F30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9EF264B-5167-4D6C-829E-73A60C91F30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9EF264B-5167-4D6C-829E-73A60C91F30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9EF264B-5167-4D6C-829E-73A60C91F30C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A8D2DB7-4554-48BC-AAE2-7D210DD96128}
+	EndGlobalSection
+EndGlobal
