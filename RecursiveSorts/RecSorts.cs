@@ -13,16 +13,17 @@ namespace RecursiveSorts
             while (index < length)
             {
                 BubbleUp(inArray, index);
-                index += 1;
+                index ++;
                             
             }
+            
             // sort the array
-            int last = length - 1;
+            int last = length -1;
             while (last > 0)
             {
                 Swap(0, last, inArray);
                 TrickleDown(inArray, last, 0);
-                last -= 1;
+                last --;
             }
         }
 
@@ -36,7 +37,7 @@ namespace RecursiveSorts
             }
             int parent = GetParent(index);
 
-            if (NewArray[parent] < NewArray[index])
+            if (NewArray[parent] > NewArray[index])
             {
                 Swap(parent, index, NewArray);
                 BubbleUp(NewArray, parent);
@@ -52,7 +53,7 @@ namespace RecursiveSorts
         {
             int left = GetLeft(index);
             int right = GetRight(index);
-            
+
 
             if (left >= Counter)
             {
@@ -61,8 +62,9 @@ namespace RecursiveSorts
 
             if (right >= Counter)
             {
+
                 //check for swap
-                if (NewArray[left] > NewArray[index])
+                if (NewArray[left] < NewArray[index])
                 {
                     Swap(left, index, NewArray);
                     TrickleDown(NewArray, left, Counter);
@@ -70,18 +72,18 @@ namespace RecursiveSorts
             }
             else // two children
             {
-                if (NewArray[left] > NewArray[right])
+                if (NewArray[left] < NewArray[right])
                 {
-                    if (NewArray[left] > NewArray[index])
+                    if (NewArray[left] < NewArray[index])
                     {
                         Swap(left, index, NewArray);
                         TrickleDown(NewArray, left, Counter);
                     }
                 }
-                else // right larger
+                else // left smaller
                 {
                     //do we need swapping
-                    if (NewArray[right] > NewArray[index])
+                    if (NewArray[right] < NewArray[index])
                     {
                         Swap(right, index, NewArray);
                         TrickleDown(NewArray, right, Counter);

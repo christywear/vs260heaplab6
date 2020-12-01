@@ -112,7 +112,7 @@ namespace HeapClass
                 else // left smaller
                 {
                     //do we need swapping
-                    if (NewArray[right] > NewArray[index])
+                    if (NewArray[right] < NewArray[index])
                     {
                         Swap(right, index);
                         TrickleDown(right);
